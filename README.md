@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArcticRug25
 - 👀 I’m interested in web
-- 🌱 I’m currently learning nestjs
-- playing overwatch2 so cool！
+- 🌱 I’m currently learning nestjs。
+- playing overwatch2！
